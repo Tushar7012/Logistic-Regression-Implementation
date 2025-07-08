@@ -31,7 +31,6 @@ This repository contains a complete implementation of **Logistic Regression** fr
 
 - Python 3
 - NumPy
-- (Optional) Matplotlib for plotting decision boundaries
 
 ---
 
